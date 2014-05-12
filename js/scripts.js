@@ -7,5 +7,5 @@ $(document).foundation();
 $(function() {
     var BV = new $.BigVideo();
     BV.init();
-    BV.show('../oceans.mp4');
+    BV.show('bchea.github.io/doh/oceans.mp4');
 });
